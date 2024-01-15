@@ -1,0 +1,3 @@
+# file ini untuk mendefinisikan nama folder/file yang tidak aupload di githab
+node_modules/
+dist
